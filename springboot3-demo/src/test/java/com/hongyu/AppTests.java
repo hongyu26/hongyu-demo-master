@@ -1,10 +1,10 @@
-package com.hongyu.springboot3demo;
+package com.hongyu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Springboot3DemoApplicationTests {
+class AppTests {
 
     @Test
     void contextLoads() {

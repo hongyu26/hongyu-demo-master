@@ -1,13 +1,13 @@
-package com.hongyu.springboot3demo;
+package com.hongyu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot3DemoApplication {
+public class App {
 
     public static void main(String[] args) {
-        SpringApplication.run(Springboot3DemoApplication.class, args);
+        SpringApplication.run(App.class, args);
     }
 
 }
